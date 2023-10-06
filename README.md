@@ -12,6 +12,7 @@ Part of the requirements for my Dev Academy Aotearoa bootcamp. Also a more inter
 - tiffs donuts
 - plant project
 - links to contact: email, github, linkedIn
+- colour scheme of dark green, beige, dark brown, cream, matte black
 
 # STRETCH
 - express-ws chat project (pair project)
