@@ -447,7 +447,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #a18559;
+  color: #031b05;
 }
 
 blockquote {
@@ -2870,7 +2870,10 @@ header.major:after {
 
 .spotlight .image img {
   display: block;
-  border-radius: 100%;
+  border-radius: 80%;
+  /* border-width: 5px;
+  border-style: solid;
+  border-color: #031b05; */
   width: 100%;
 }
 
@@ -3023,7 +3026,7 @@ table.alt tbody tr td {
 .wrapper {
   padding: 4.5em 0 2.5em 0;
   background-color: #ffffff;
-  border-bottom: solid 2px #eeeeee;
+  border-bottom: solid 2px #a18559;
 }
 
 .wrapper > .inner {
@@ -3033,7 +3036,7 @@ table.alt tbody tr td {
 }
 
 .wrapper > .inner.alt > * {
-  border-top: solid 2px #eeeeee;
+  border-top: solid 2px #a18559;
   margin-bottom: 0;
   margin-top: 3em;
   padding-top: 3em;
