@@ -1,10 +1,10 @@
-# PLANT PROJECT
+# Developer Portfolio
 
 # WHAT
 Portfolio to be a gallery of projects I have worked on and will continue to work on.
 
 # WHY
-Part of the requirements for my Dev Academy Aotearoa bootcamp. Also a more interactive and accessible way of displaying my growth as a developer. 
+Part of the requirements for my Dev Academy Aotearoa bootcamp. Also a more interactive and accessible way of displaying my growth as a developer. This was also an opportunity for me to explore using an external HTML/CSS template instead of writing all the front end from scratch. It also allows for a place for me to "store" my deployed projects!
 
 # MVP
 - download CV
