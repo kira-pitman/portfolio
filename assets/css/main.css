@@ -206,7 +206,7 @@ body.is-preload *:after {
 /* Type */
 
 body {
-  color: #999999;
+  color: #645f5f;;
 }
 
 html,
@@ -3036,7 +3036,7 @@ table.alt tbody tr td {
 }
 
 .wrapper > .inner.alt > * {
-  border-top: solid 2px #a18559;
+  border-top: solid 2px #2e2312;
   margin-bottom: 0;
   margin-top: 3em;
   padding-top: 3em;
@@ -3794,7 +3794,7 @@ table.alt tbody tr td {
 #header .button.primary {
   box-shadow: none;
   background-color: #ffffff;
-  color: #a18559 !important;
+  color: #2e2312 !important;
 }
 
 #header label {
