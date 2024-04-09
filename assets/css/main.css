@@ -4195,30 +4195,30 @@ body.is-preload #header .image img {
 
 #footer {
   background-color: #f7f7f7;
-  color: #999999;
+  color: #645f5f;
   padding: 4.5em 0 2.5em 0;
-  color: #b0b0b0;
+  color: #645f5f;
   text-align: center;
 }
 
 #footer input,
 #footer select,
 #footer textarea {
-  color: #999999;
+  color: #645f5f;
 }
 
 #footer a {
   color: inherit;
-  border-bottom-color: #c6c6c6;
+  border-bottom-color: #645f5f;
 }
 
 #footer a:hover {
-  color: #4696e5;
+  color: #052507;
 }
 
 #footer strong,
 #footer b {
-  color: #828282;
+  color: #645f5f;
 }
 
 #footer h1,
@@ -4227,7 +4227,7 @@ body.is-preload #header .image img {
 #footer h4,
 #footer h5,
 #footer h6 {
-  color: #828282;
+  color: #645f5f;
 }
 
 #footer blockquote {
